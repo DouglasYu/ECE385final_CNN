@@ -5,4 +5,4 @@ This project is only for research use. Any form of plagiarism is forbidden. More
 
 ### Usage
 
-Open the project file and compile it.
+Open the project file and compile it. Some RAMs contains paths to weight files. You shall modify them to accomodate your environment.
