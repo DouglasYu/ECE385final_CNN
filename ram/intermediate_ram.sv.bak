@@ -1,0 +1,19 @@
+module intermediate_ram(
+	input logic 			Clk,
+	input logic [9:0]		addr,
+	output logic signed [31:0] 	read_data
+);
+
+	logic signed [31:0] mem [1000];
+	
+//	initial
+//	begin
+//		$readmemb("D:/Projects/ECE385Labs/final/final_code/weights/input_2.txt", mem);
+//	end
+	
+	always_ff@(posedge Clk)
+	begin
+		read_data <= mem[addr];
+	end
+
+endmodule
