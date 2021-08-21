@@ -9,6 +9,8 @@ Open the project file and compile it. Some RAMs contains paths to weight files. 
 
 ### Demostration
 
-https://user-images.githubusercontent.com/46107078/130326117-4f518197-1cd2-42f4-899b-d4f45a6ba186.mp4
+https://user-images.githubusercontent.com/46107078/130326140-eaa444af-2df8-40b0-9b90-59defba7db2c.mp4
+
+
 
 
