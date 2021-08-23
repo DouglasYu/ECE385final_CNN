@@ -15,6 +15,6 @@ https://user-images.githubusercontent.com/46107078/130326140-eaa444af-2df8-40b0-
 
 ### Reference
 
-Part of the camera-related code was written with reference to (other projects)[http://www.dejazzer.com/eigenpi/digital_camera/digital_camera.html]. 
+Part of the camera-related code was written with reference to [other projects](http://www.dejazzer.com/eigenpi/digital_camera/digital_camera.html). 
 
 
